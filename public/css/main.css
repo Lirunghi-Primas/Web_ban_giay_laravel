@@ -1,0 +1,77 @@
+footer ul li {
+    text-decoration: none;
+    list-style: none;
+}
+
+footer .logo {
+    width: 200px;
+}
+
+.display-4 {
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.lead {
+    font-weight: 500;
+}
+
+#gt {
+    margin-top: 30px;
+}
+
+#header .navbar-logo {
+    height: 30px;
+    width: 100px;
+   
+}
+
+#header .nav-icon {
+    margin-left: 20px;
+    color: #000;
+}
+
+.form__login {
+    width: 350px !important;
+    max-width: calc(100% - 30px);
+}
+
+.form__tab {
+    margin-bottom: 10px;
+}
+
+.form__login .form__tab-item .form_tab-item-active {
+    border-width: 3px !important;
+}
+
+.form__login #text-codition {
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.form__login #form-check-text {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.form__login .form__login-btn {
+    border-radius: 50px;
+}
+
+.form__login #form__login-forget {
+    padding: 20px 0;
+}
+
+.form__login #form__login-btn-create {
+    margin-top: 20px;
+
+    border-radius: 20px;
+}
+
+/* DETAIL CSS */
+a {
+    color: black;
+}
+
+/* PRODUCT DETAIL */
+
