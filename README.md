@@ -8,7 +8,7 @@
 ## Tiến hành
 - Chạy các lệnh sau tại đường dẫn lưu source code:
 ```
-git clone https://github.com/lechihuy/flipper.git
+git clone https://github.com/lirunghi261/lirunghi.git
 cd flipper
 composer install
 php artisan key:generate
